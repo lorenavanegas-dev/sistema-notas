@@ -7,7 +7,7 @@ Sistema de gestión de notas académicas
 ![Pantalla principal](screenshots/portafolio/dashboard.png)
 ![Registro](screenshots/portafolio/registro_estudiante.png)
 ![Lista de estudiantes](screenshots/portafolio/estudiantes.png)
-![Registro de notas](screenshots/portafolio/lista de notas.png)
+![Registro de notas](screenshots/portafolio/listadenotas.png)
 ![Notas](screenshots/portafolio/nota.png)
 ![Reporte académico](screenshots/portafolio/reporte.png)
 
